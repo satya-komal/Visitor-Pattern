@@ -1,0 +1,6 @@
+The total no of words is 38
+The most frequently used word is: 
+The
+The frequency of the most frequently used word is: 6
+The no of characters is 98
+The word <the> occurs the following times: 2
